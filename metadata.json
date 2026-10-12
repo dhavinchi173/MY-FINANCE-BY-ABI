@@ -1,0 +1,6 @@
+{
+  "name": "Rupiah Finance OS",
+  "description": "Personal Finance Calculator, Multi-Currency Ledger, Financial Analytics & Smart Budgeting System for IDR, JPY, and USD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
